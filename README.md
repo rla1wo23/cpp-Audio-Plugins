@@ -9,4 +9,7 @@ For instructions on how to use the plugin, please refer to the JUCE documentatio
 ## Additional Information
 
 This plugin was created as part of a project to explore audio signal processing using JUCE. The repository includes all necessary files to build and run the plugin.
-# cpp-Audio-Plugins
+
+## DistortionJh.jucer
+
+![Plugin Interface](images/dist-1.png)
